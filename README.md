@@ -275,5 +275,5 @@ iplaycode/webstack-hugo
 
 附仓库github仓库命令:
 git add .
-git commit -m "commit update at 2025-05-30 11:10"
+git commit -m "commit update at $(date '+%Y-%m-%d %H:%M:%S')"
 git push -u origin master
