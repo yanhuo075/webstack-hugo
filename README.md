@@ -273,7 +273,13 @@ liutongxu/liutongxu.github.io
 iplaycode/webstack-hugo
 感谢 WebStack 的作者 Viggo 的肯定和推广宣传。
 
-附:仓库github仓库命令:
+附:CF Pages运行报错：否则会提示如下错误：fatal: No url found for submodule path 'themes/hugo-PaperMod' in .gitmodules
+解决方案：
+查看报错子模块路径：
+git submodule update --init
+修复：git rm --cached + 报错子模块路径
+
+仓库github仓库命令:
 git add .
 git commit -m "commit update at $(date '+%Y-%m-%d %H:%M:%S')"
 git push -u origin master
