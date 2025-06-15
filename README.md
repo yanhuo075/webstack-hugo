@@ -273,7 +273,7 @@ liutongxu/liutongxu.github.io
 iplaycode/webstack-hugo
 感谢 WebStack 的作者 Viggo 的肯定和推广宣传。
 
-附仓库github仓库命令:
+附:仓库github仓库命令:
 git add .
 git commit -m "commit update at $(date '+%Y-%m-%d %H:%M:%S')"
 git push -u origin master
