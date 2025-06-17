@@ -23,6 +23,10 @@
       logo: github.png
       url: https://github.com/
       description: GitHub 开源社区。
+    - title: IT-TOOLS
+      logo: it-tools.png
+      url: https://it-tools.zycloud.tk/
+      description: 开发工作者IT工集合。
 #    - title: 搜狗微信
 #      logo: 搜狗微信.jpg
 #      url: https://weixin.sogou.com/
