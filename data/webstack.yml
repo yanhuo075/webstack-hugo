@@ -425,6 +425,12 @@
           logo: mustsee.png
           description: Discover the world's most beautiful places at every opened tab.
 
+    - term: 网络工具
+      links:
+        - title: 阿里云拨测
+          url: https://boce.aliyun.com/detect/http
+          logo: aliyun.png
+          description: 阿里云网络拨测平台.
 
 - taxonomy: 资讯学习
   icon: fas fa-pencil-alt fa-lg
