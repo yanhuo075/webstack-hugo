@@ -298,6 +298,10 @@
           description: The complete set of 675 icons in Font Awesome.
     - term: 图标设计
       links:
+        - title: Favicon Extractor
+          logo: faviconextra.png
+          url: https://www.faviconextractor.com/
+          description: 输入网址下载favicon图标.
         - title: Favicon im get url api
           logo: faviconim.png
           url: http://favicon.im/zh/
