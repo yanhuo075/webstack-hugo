@@ -254,7 +254,7 @@
           logo: 坚果云.png
           usrl: https://www.jianguoyun.com/
           description: 坚果云官网。
-    - term: 图标素材
+    - term: 图标字体
       links:
         - title: Iconfinder
           logo: Iconfinder.png
@@ -272,14 +272,6 @@
           logo: fontawesomeicon.png
           url: https://fontawesome.com/icons/
           description: The complete set of 675 icons in Font Awesome.
-    - term: LOGO设计
-      links:
-        - title: Instant Logo Search
-          logo: InstantLogoSearch.png
-          url: http://instantlogosearch.com/
-          description: Search & download thousands of logos instantly.
-    - term: 字体资源
-      links:
         - title: Google Font
           url: https://fonts.google.com/
           logo: googlefont.png
@@ -296,50 +288,16 @@
           url: http://ziticq.com/
           logo: ziticq.png
           description: 中国首个字体品牌设计师交流网。
-        - title: 私藏字体
-          url: http://sicangziti.com/
-          logo: sicangziti.png
-          description: 优质字体免费下载站。
-        - title: Fontsquirrel
-          url: https://www.fontsquirrel.com/
-          logo: fontsquirrel.png
-          description: FREE fonts for graphic designers.
-        - title: Urban Fonts
-          url: https://www.urbanfonts.com/
-          logo: UrbanFonts.png
-          description: Download Free Fonts and Free Dingbats.
-        - title: Lost Type
-          url: http://www.losttype.com/
-          logo: losttype.png
-          description: Lost Type is a Collaborative Digital Type Foundry.
-        - title: FONTS2U
-          url: https://fonts2u.com/
-          logo: fonts2u.png
-          description: Download free fonts for Windows and Macintosh.
-        - title: Fontex
-          url: http://www.fontex.org/
-          logo: fontex.png
-          description: Free Fonts to Download + Premium Typefaces.
-        - title: FontM
-          url: http://fontm.com/
-          logo: FontM.png
-          description: Free Fonts
-        - title: My Fonts
-          url: http://www.myfonts.com/
-          logo: MyFonts.png
-          description: Fonts for Print, Products & Screens.
-        - title: Da Font
-          url: https://www.dafont.com/
-          logo: dafont.png
-          description: Archive of freely downloadable fonts.
-        - title: OnlineWebFonts
-          url: https://www.onlinewebfonts.com/
-          logo: OnlineWebFonts.png
-          description: WEB Free Fonts for Windows and Mac / Font free Download.
         - title: Abstract Fonts
           url: http://www.abstractfonts.com/
           logo: abstractfonts.png
           description: Abstract Fonts (13,866 free fonts).      
+    - term: 图标设计
+      links:
+        - title: Instant Logo Search
+          logo: InstantLogoSearch.png
+          url: http://instantlogosearch.com/
+          description: Search & download thousands of logos instantly.
       
 
 - taxonomy: 开发设计
