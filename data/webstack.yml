@@ -294,6 +294,10 @@
           description: The complete set of 675 icons in Font Awesome.
     - term: 图标设计
       links:
+        - title: Favicon im get url api
+          logo: faviconim.png
+          url: http://favicon.im/zh/
+          description: 获取网站favicon图标API.
         - title: Instant Logo Search
           logo: InstantLogoSearch.png
           url: http://instantlogosearch.com/
