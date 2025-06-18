@@ -316,7 +316,7 @@
           description: 提供Logo模板帮助在线免费制作Logo.
         - title: 标小智
           logo: logosc.png
-          url: https://www.logosc.cn/
+          url: https://www.logosc.cn/edit
           description: LOGO生成器,可搭配浏览器扩展插件使用!详情页https://github.com/quarkape/free-canvas.
         - title: 标智客
           logo: logomaker.png
