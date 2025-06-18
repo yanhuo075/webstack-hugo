@@ -31,6 +31,10 @@
       logo: fanyi.png
       url: https://fanyi.zycloud.tk/
       description: 多种语言在线翻译工具。
+    - title: 资源下载
+      logo: zycloud.png
+      url: https://repo.zycloud.tk/
+      description: 多种语言在线翻译工具。
 #    - title: 搜狗微信
 #      logo: 搜狗微信.jpg
 #      url: https://weixin.sogou.com/
