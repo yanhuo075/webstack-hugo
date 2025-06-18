@@ -310,10 +310,10 @@
           logo: faviconim.png
           url: http://favicon.im/zh/
           description: 获取网站favicon图标API.
-        - title: Instant Logo Search
-          logo: InstantLogoSearch.png
-          url: http://instantlogosearch.com/
-          description: Search & download thousands of logos instantly.
+        - title: DesignEvo
+          logo: designevo.png
+          url: https://www.designevo.com/cn/
+          description: 提供Logo模板帮助在线免费制作Logo.
       
 
 - taxonomy: 开发设计
