@@ -320,8 +320,12 @@
           description: LOGO生成器,可搭配浏览器扩展插件使用!详情页https://github.com/quarkape/free-canvas.
         - title: 标智客
           logo: logomaker.png
-          url: https://www.logomaker.com.cn/
+          url: https://www.logomaker.com.cn/editor
           description: LOGO生成器,可搭配浏览器扩展插件使用!详情页https://github.com/quarkape/free-canvas.
+        - title: 图片格式转换
+          logo: imgcover.png
+          url: https://imgcover.zycloud.tk/
+          description: 一个在线图片转换工具，可将jpeg、jpg、png、gif、webp、svg、ico、bmp文件转换为jpeg、png、webp、webp动画、gif、base64、avif、mozjpeg等。
       
 
 - taxonomy: 开发设计
