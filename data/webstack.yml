@@ -187,6 +187,12 @@
           logo: zycloud.png
           url: https://gitproxy.zycloud.tk/
           description: Github代码仓库国内加速地址。
+    - term: 驱动下载
+      links: 
+        - title: Nvidia显卡驱动
+          logo: nvidia.png
+          url: https://www.nvidia.cn/drivers/lookup/
+          description: Nvidia显卡驱动型号查询和下载。
 
 - taxonomy: 办公娱乐
   icon: fas fa-film fa-lg
