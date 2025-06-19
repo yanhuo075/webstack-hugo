@@ -189,10 +189,14 @@
           description: Github代码仓库国内加速地址。
     - term: 驱动下载
       links: 
-        - title: Nvidia显卡驱动
+        - title: NVIDIA显卡驱动
           logo: nvidia.png
           url: https://www.nvidia.cn/drivers/lookup/
           description: Nvidia显卡驱动型号查询和下载。
+        - title: NVIDIA CUDA Toolkit
+          logo: nvidia.png
+          url: https://developer.nvidia.com/cuda-toolkit-archive
+          description: Nvidia CUDA Toolkit开发编程接口环境。
 
 - taxonomy: 办公娱乐
   icon: fas fa-film fa-lg
