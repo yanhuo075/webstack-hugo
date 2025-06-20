@@ -310,6 +310,10 @@
           logo: iconfont.png
           url: http://www.iconfont.cn/
           description: 阿里巴巴矢量图标库。
+        - title: IconPark
+          logo: iconpark.png
+          url: https://iconpark.oceanengine.com
+          description: 字节跳动开源矢量图标库。
         - title: Material icons
           logo: Materialicons.png
           url: https://material.io/icons/
