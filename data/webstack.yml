@@ -348,6 +348,10 @@
           logo: imgcover.png
           url: https://imgcover.zycloud.tk/
           description: 一个在线图片转换工具，可将jpeg、jpg、png、gif、webp、svg、ico、bmp文件转换为jpeg、png、webp、webp动画、gif、base64、avif、mozjpeg等。
+        - title: PhotoGrid
+          logo: photogrid.png
+          url: https://www.photogrid.app/zh-cn/
+          description: 图片ai去水印
       
     - term: 网络工具
       links:
