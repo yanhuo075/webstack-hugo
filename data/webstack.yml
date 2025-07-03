@@ -353,12 +353,16 @@
           url: https://www.photogrid.app/zh-cn/watermark-remover/
           description: AI图片工具（包括去水印功能）。
       
-    - term: 网络工具
+    - term: 测试工具
       links:
         - title: 阿里云拨测
           url: https://boce.aliyun.com/detect/http
           logo: aliyun.png
           description: 阿里云网络拨测平台.
+        - title: API接口测试
+          url: https://apifox.com/apihub/
+          logo: apifox.png
+          description: 公共开放API接口共享平台.
 
 - taxonomy: 资讯学习
   icon: fas fa-pencil-alt fa-lg
