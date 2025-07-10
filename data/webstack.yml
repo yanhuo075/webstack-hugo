@@ -367,6 +367,10 @@
           url: https://csr.chinassl.net/ssl-checker.html
           logo: chinassl.png
           description: 中国数字证书检测机构.
+        - title: SSL证书检测网站
+          url: https://myssl.com/
+          logo: myssl.png
+          description: SSL证书检测网站.
 
 - taxonomy: 资讯学习
   icon: fas fa-pencil-alt fa-lg
